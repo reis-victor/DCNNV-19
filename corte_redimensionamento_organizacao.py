@@ -1,3 +1,6 @@
+#Script adaptado de https://github.com/Laudarisd/Project_Root/blob/master/Data-preprocessing/img_manuplating/crop_from_csv_bbox/crop_image_from_csv.py
+
+
 #Importação das bibliotecas necessárias
 import pandas as pd
 from PIL import Image
