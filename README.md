@@ -10,5 +10,5 @@ https://github.com/reis-victor/TCC/blob/main/corte_redimensionamento_organizacao
 Por utilizar um otimizador customizado, para carregar o modelo é necessário o código adicional "custom_objects={"AdaBeliefOptimizer": AdaBeliefOptimizer}"
 https://github.com/reis-victor/TCC/tree/main/model 
 
-### Link do dataset COVIDx CT no Kaggle
+### Link do dataset utilizado, COVIDx CT, no Kaggle
 https://www.kaggle.com/datasets/c395fb339f210700ba392d81bf200f766418238c2734e5237b5dd0b6fc724fcb
