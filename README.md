@@ -7,4 +7,5 @@ https://github.com/reis-victor/TCC/blob/main/DCNN_classificadora_covid19.ipynb
 https://github.com/reis-victor/TCC/blob/main/corte_redimensionamento_organizacao.py
 
 ### Modelo final salvo
+Por utilizar um otimizador customizado, para carregar o modelo é necessário o código adicional "custom_objects={"AdaBeliefOptimizer": AdaBeliefOptimizer}"
 https://github.com/reis-victor/TCC/tree/main/model 
