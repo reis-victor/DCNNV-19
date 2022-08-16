@@ -1,14 +1,16 @@
-## Repositório do Trabalho de Conclusão de Curso apresentado ao Curso de Especialização em Inteligência Artificial e Aprendizado de Máquina da PUC-Minas, como requisito parcial à obtenção do título de Especialista.
+## 
+
+
 
 ### Jupyter Notebook
-https://github.com/reis-victor/TCC/blob/main/DCNN_classificadora_covid19.ipynb
+https://github.com/reis-victor/COVID19-DCNN/blob/main/DCNN_classificadora_covid19.ipynb
 
 ### Script em python utilizado para corte das imagens baseando-se nas caixas delimitadoras, além de redimensionamento e alocação para o subdiretório adequado
-https://github.com/reis-victor/TCC/blob/main/corte_redimensionamento_organizacao.py
+https://github.com/reis-victor/COVID19-DCNN/blob/main/corte_redimensionamento_organizacao.py
 
-### Modelo final salvo
+### Modelo final do Tensorflow salvo:
 Por utilizar um otimizador customizado, para carregar o modelo é necessário o código adicional "custom_objects={"AdaBeliefOptimizer": AdaBeliefOptimizer}"
-https://github.com/reis-victor/TCC/tree/main/model 
+https://github.com/reis-victor/COVID19-DCNN/tree/main/model 
 
-### Link do dataset utilizado, COVIDx CT, no Kaggle
-https://www.kaggle.com/datasets/c395fb339f210700ba392d81bf200f766418238c2734e5237b5dd0b6fc724fcb
+### Link do dataset utilizado, COVIDx-CT2, no Kaggle:
+https://www.kaggle.com/datasets/c395fb339f210700ba392d81bf200f766418238c2734e5237b5dd0b6fc724fcb/versions/4
