@@ -1,4 +1,4 @@
-## DCNNV-19: UMA REDE NEURAL CONVOLUCIONAL PROFUNDA PARA DETECÇÃO DE COVID-19 EM TOMOGRAFIAS COMPUTADORIZADAS TORÁCICAS
+## DCNNV-19: Uma rede neural convolucional profunda para detecção de COVID-19 em tomografias computadorizadas torácicas
 
 
 ### Jupyter Notebook
